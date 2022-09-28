@@ -4,7 +4,8 @@
   "description": "Doctor-Patient Registration Server",
   "main": "index.js",
   "scripts": {
-    "start": "SET NODE_ENV=dev && nodemon index.js",
+    "start": "node index.js",
+   
     "test": "mocha --timeout 10000"
   },
   "author": "Suzel",
